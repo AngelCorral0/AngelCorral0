@@ -9,8 +9,8 @@ Soy Angel, un programador junior formador en IT Academy donde he aprendido a ser
   - Git / GitHub
 
 - 📫 Contacto:
-  -angel.corral.olivares@gmail.com
-  https://www.linkedin.com/in/angel-corral-olivares/
+  - angel.corral.olivares@gmail.com
+  - https://www.linkedin.com/in/angel-corral-olivares/
   
 
 <!--
