@@ -1,5 +1,11 @@
-## Hola!👋
-Soy Angel, un programador junior formador en IT Academy donde he aprendido a ser desarrollador FullStack de PHP. Actualmente estoy en búsqueda de trabajo donde pueda seguir formándome en este campo y crecer profesionalmente.
+Hi 👋 My name is Angel Corral
+=============================
+
+Soy un programador junior formador en IT Academy y Fundació Esplai donde he aprendido a ser desarrollador FullStack. Actualmente estoy en búsqueda de trabajo donde pueda seguir formándome en este campo y crecer profesionalmente.
+
+* 🌍  I'm based in Barcelona
+* ✉️  You can contact me at [angel.corral.olivares@gmail.com](mailto:angel.corral.olivares@gmail.com)
+* 🧠  I'm learning I'm learning Java SpringBoot and React
 
 - Habilidades:
 
@@ -10,6 +16,7 @@ Soy Angel, un programador junior formador en IT Academy donde he aprendido a ser
  
 
 - 📫 Contacto:
+
   <p align="left"> <a href="https://www.linkedin.com/in/angel-corral-olivares" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
  
  
