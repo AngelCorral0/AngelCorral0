@@ -11,12 +11,14 @@ Soy Angel, un programador junior formador en IT Academy donde he aprendido a ser
 - 📫 Contacto:
   - angel.corral.olivares@gmail.com
   - https://www.linkedin.com/in/angel-corral-olivares/
+ 
+  href="http://www.github.com/AngelCorral0"><img src="https://github-readme-stats.vercel.app/api?username=AngelCorral0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelCorral0's GitHub stats" /></a>
   
 
 <!--
 **AngelCorral0/AngelCorral0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    href="http://www.github.com/AngelCorral0"><img src="https://github-readme-stats.vercel.app/api?username=AngelCorral0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelCorral0's GitHub stats" /></a>
+   
 
 Here are some ideas to get you started:
 
